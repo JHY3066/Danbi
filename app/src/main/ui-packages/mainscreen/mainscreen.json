@@ -1,14 +1,25 @@
 {
+<<<<<<< HEAD
   "name": "mainscreen",
+=======
+  "name": "_",
+>>>>>>> origin/MainScreen
   "version": 32,
   "source-key": {
     "type": "figma",
     "file": "eL5c3JrapSGcpOksVELGPL",
     "node": "124:6",
+<<<<<<< HEAD
     "version": "4505815002",
     "component-id": "9f8ec6cf3e60bda36ba96dad6cd94f05949213dd"
   },
   "default": "mainscreen",
+=======
+    "version": "4480520573",
+    "component-id": "9f8ec6cf3e60bda36ba96dad6cd94f05949213dd"
+  },
+  "default": "메인 화면",
+>>>>>>> origin/MainScreen
   "documentation": "Mainscreen",
   "design": {
     "atoms": [
@@ -59,6 +70,7 @@
       },
       {
         "type": "text",
+<<<<<<< HEAD
         "id": "uncontect"
       },
       {
@@ -76,6 +88,25 @@
       {
         "type": "text",
         "id": "Location"
+=======
+        "id": "비대면 상담"
+      },
+      {
+        "type": "text",
+        "id": "전문가 상담"
+      },
+      {
+        "type": "text",
+        "id": "활동 상담"
+      },
+      {
+        "type": "text",
+        "id": "공지사항 & 이벤트 광고 배너"
+      },
+      {
+        "type": "text",
+        "id": "내 위치"
+>>>>>>> origin/MainScreen
       },
       {
         "type": "image",
@@ -107,7 +138,11 @@
       },
       {
         "type": "text",
+<<<<<<< HEAD
         "id": "Search"
+=======
+        "id": "원하는 상담을 검색해보세요!"
+>>>>>>> origin/MainScreen
       },
       {
         "type": "vector",
@@ -119,7 +154,11 @@
       }
     ],
     "modes": {
+<<<<<<< HEAD
       "mainscreen": {
+=======
+      "메인 화면": {
+>>>>>>> origin/MainScreen
         "rules": [
           {
             "id": "top_level",
@@ -135,11 +174,19 @@
               "Rectangle 17",
               "Rectangle 18",
               "Rectangle 12",
+<<<<<<< HEAD
               "uncontect",
               "Expert",
               "Activity",
               "Event",
               "Location",
+=======
+              "비대면 상담",
+              "전문가 상담",
+              "활동 상담",
+              "공지사항 & 이벤트 광고 배너",
+              "내 위치",
+>>>>>>> origin/MainScreen
               "Rectangle 10",
               "Rectangle 34",
               "Ellipse 1",
@@ -147,7 +194,11 @@
               "Ellipse 2",
               "Rectangle 58",
               "Rectangle 60",
+<<<<<<< HEAD
               "Search",
+=======
+              "원하는 상담을 검색해보세요!",
+>>>>>>> origin/MainScreen
               "Rectangle 61",
               "(1 / 10)"
             ],
@@ -406,7 +457,11 @@
             "scale": "cover"
           },
           {
+<<<<<<< HEAD
             "id": "uncontect",
+=======
+            "id": "비대면 상담",
+>>>>>>> origin/MainScreen
             "alignment": {
               "horizontal": {
                 "attachment": "start",
@@ -442,7 +497,11 @@
             "line-height": "1.25"
           },
           {
+<<<<<<< HEAD
             "id": "Expert",
+=======
+            "id": "전문가 상담",
+>>>>>>> origin/MainScreen
             "alignment": {
               "horizontal": {
                 "attachment": "start",
@@ -478,7 +537,11 @@
             "line-height": "1.25"
           },
           {
+<<<<<<< HEAD
             "id": "Activity",
+=======
+            "id": "활동 상담",
+>>>>>>> origin/MainScreen
             "alignment": {
               "horizontal": {
                 "attachment": "start",
@@ -514,7 +577,11 @@
             "line-height": "1.25"
           },
           {
+<<<<<<< HEAD
             "id": "Event",
+=======
+            "id": "공지사항 & 이벤트 광고 배너",
+>>>>>>> origin/MainScreen
             "alignment": {
               "horizontal": {
                 "attachment": "start",
@@ -539,7 +606,11 @@
             "line-height": "1.25"
           },
           {
+<<<<<<< HEAD
             "id": "Location",
+=======
+            "id": "내 위치",
+>>>>>>> origin/MainScreen
             "alignment": {
               "horizontal": {
                 "attachment": "start",
@@ -746,7 +817,11 @@
             "scale": "contain"
           },
           {
+<<<<<<< HEAD
             "id": "Search",
+=======
+            "id": "원하는 상담을 검색해보세요!",
+>>>>>>> origin/MainScreen
             "alignment": {
               "horizontal": {
                 "attachment": "start",
@@ -848,7 +923,11 @@
   },
   "previews": [
     {
+<<<<<<< HEAD
       "design": "mainscreen",
+=======
+      "design": "메인 화면",
+>>>>>>> origin/MainScreen
       "size": {
         "width": 390.0,
         "height": 844.0
