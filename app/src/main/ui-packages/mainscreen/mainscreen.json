@@ -1,26 +1,14 @@
 {
-<<<<<<< HEAD
   "name": "mainscreen",
-=======
-  "name": "_",
->>>>>>> origin/MainScreen
   "version": 32,
   "source-key": {
     "type": "figma",
     "file": "eL5c3JrapSGcpOksVELGPL",
-    "node": "124:6",
-<<<<<<< HEAD
-    "version": "4505815002",
-    "component-id": "9f8ec6cf3e60bda36ba96dad6cd94f05949213dd"
+    "node": "160:141",
+    "version": "4522849570",
+    "component-id": "a40c42c924957cc96451bd3945074334285a47ac"
   },
   "default": "mainscreen",
-=======
-    "version": "4480520573",
-    "component-id": "9f8ec6cf3e60bda36ba96dad6cd94f05949213dd"
-  },
-  "default": "메인 화면",
->>>>>>> origin/MainScreen
-  "documentation": "Mainscreen",
   "design": {
     "atoms": [
       {
@@ -70,7 +58,6 @@
       },
       {
         "type": "text",
-<<<<<<< HEAD
         "id": "uncontect"
       },
       {
@@ -88,25 +75,6 @@
       {
         "type": "text",
         "id": "Location"
-=======
-        "id": "비대면 상담"
-      },
-      {
-        "type": "text",
-        "id": "전문가 상담"
-      },
-      {
-        "type": "text",
-        "id": "활동 상담"
-      },
-      {
-        "type": "text",
-        "id": "공지사항 & 이벤트 광고 배너"
-      },
-      {
-        "type": "text",
-        "id": "내 위치"
->>>>>>> origin/MainScreen
       },
       {
         "type": "image",
@@ -118,15 +86,7 @@
       },
       {
         "type": "vector",
-        "id": "Ellipse 1"
-      },
-      {
-        "type": "vector",
         "id": "Polygon 1"
-      },
-      {
-        "type": "vector",
-        "id": "Ellipse 2"
       },
       {
         "type": "vector",
@@ -138,11 +98,7 @@
       },
       {
         "type": "text",
-<<<<<<< HEAD
         "id": "Search"
-=======
-        "id": "원하는 상담을 검색해보세요!"
->>>>>>> origin/MainScreen
       },
       {
         "type": "vector",
@@ -151,14 +107,18 @@
       {
         "type": "text",
         "id": "(1 / 10)"
+      },
+      {
+        "type": "image",
+        "id": "KakaoTalk_20231003_191511716_02 1"
+      },
+      {
+        "type": "image",
+        "id": "Untitled (2) 1"
       }
     ],
     "modes": {
-<<<<<<< HEAD
       "mainscreen": {
-=======
-      "메인 화면": {
->>>>>>> origin/MainScreen
         "rules": [
           {
             "id": "top_level",
@@ -174,33 +134,21 @@
               "Rectangle 17",
               "Rectangle 18",
               "Rectangle 12",
-<<<<<<< HEAD
               "uncontect",
               "Expert",
               "Activity",
               "Event",
               "Location",
-=======
-              "비대면 상담",
-              "전문가 상담",
-              "활동 상담",
-              "공지사항 & 이벤트 광고 배너",
-              "내 위치",
->>>>>>> origin/MainScreen
               "Rectangle 10",
               "Rectangle 34",
-              "Ellipse 1",
               "Polygon 1",
-              "Ellipse 2",
               "Rectangle 58",
               "Rectangle 60",
-<<<<<<< HEAD
               "Search",
-=======
-              "원하는 상담을 검색해보세요!",
->>>>>>> origin/MainScreen
               "Rectangle 61",
-              "(1 / 10)"
+              "(1 / 10)",
+              "KakaoTalk_20231003_191511716_02 1",
+              "Untitled (2) 1"
             ],
             "background-color": {
               "alpha": "1.0",
@@ -218,41 +166,31 @@
               },
               "vertical": {
                 "attachment": "start",
-                "offset": "744.0"
+                "offset": "695.0"
               }
             },
             "size-constraints": {
               "width-constraints": {
                 "sizing-mode": "fixed",
-                "value": "390.0"
+                "value": "384.0"
               },
               "height-constraints": {
                 "sizing-mode": "fixed",
-                "value": "100.0"
+                "value": "94.0"
               }
             },
             "vector-content": "rectangle_25.svg"
           },
           {
             "id": "Rectangle 11",
-            "alignment": {
-              "horizontal": {
-                "attachment": "start",
-                "offset": "0.0"
-              },
-              "vertical": {
-                "attachment": "start",
-                "offset": "1.0"
-              }
-            },
             "size-constraints": {
               "width-constraints": {
                 "sizing-mode": "fixed",
-                "value": "390.0"
+                "value": "384.0"
               },
               "height-constraints": {
                 "sizing-mode": "fixed",
-                "value": "141.0"
+                "value": "132.0"
               }
             },
             "vector-content": "rectangle_11.svg"
@@ -266,17 +204,17 @@
               },
               "vertical": {
                 "attachment": "start",
-                "offset": "432.0"
+                "offset": "403.0"
               }
             },
             "size-constraints": {
               "width-constraints": {
                 "sizing-mode": "fixed",
-                "value": "390.0"
+                "value": "384.0"
               },
               "height-constraints": {
                 "sizing-mode": "fixed",
-                "value": "218.0"
+                "value": "205.0"
               }
             },
             "vector-content": "rectangle_19.svg"
@@ -291,17 +229,17 @@
               },
               "vertical": {
                 "attachment": "start",
-                "offset": "181.0"
+                "offset": "169.0"
               }
             },
             "size-constraints": {
               "width-constraints": {
                 "sizing-mode": "fixed",
-                "value": "123.0"
+                "value": "121.0"
               },
               "height-constraints": {
                 "sizing-mode": "fixed",
-                "value": "202.0"
+                "value": "189.0"
               }
             },
             "vector-content": "rectangle_20.svg"
@@ -312,21 +250,21 @@
             "alignment": {
               "horizontal": {
                 "attachment": "start",
-                "offset": "134.0"
+                "offset": "132.0"
               },
               "vertical": {
                 "attachment": "start",
-                "offset": "181.0"
+                "offset": "169.0"
               }
             },
             "size-constraints": {
               "width-constraints": {
                 "sizing-mode": "fixed",
-                "value": "123.0"
+                "value": "121.0"
               },
               "height-constraints": {
                 "sizing-mode": "fixed",
-                "value": "202.0"
+                "value": "189.0"
               }
             },
             "vector-content": "rectangle_21.svg"
@@ -337,21 +275,21 @@
             "alignment": {
               "horizontal": {
                 "attachment": "start",
-                "offset": "260.0"
+                "offset": "256.0"
               },
               "vertical": {
                 "attachment": "start",
-                "offset": "181.0"
+                "offset": "169.0"
               }
             },
             "size-constraints": {
               "width-constraints": {
                 "sizing-mode": "fixed",
-                "value": "123.0"
+                "value": "122.0"
               },
               "height-constraints": {
                 "sizing-mode": "fixed",
-                "value": "202.0"
+                "value": "189.0"
               }
             },
             "vector-content": "rectangle_22.svg"
@@ -365,17 +303,17 @@
               },
               "vertical": {
                 "attachment": "start",
-                "offset": "204.0"
+                "offset": "190.0"
               }
             },
             "size-constraints": {
               "width-constraints": {
                 "sizing-mode": "fixed",
-                "value": "103.0"
+                "value": "102.0"
               },
               "height-constraints": {
                 "sizing-mode": "fixed",
-                "value": "113.0"
+                "value": "106.0"
               }
             },
             "image-content": "rectangle_16.png",
@@ -386,21 +324,21 @@
             "alignment": {
               "horizontal": {
                 "attachment": "start",
-                "offset": "144.0"
+                "offset": "142.0"
               },
               "vertical": {
                 "attachment": "start",
-                "offset": "181.0"
+                "offset": "169.0"
               }
             },
             "size-constraints": {
               "width-constraints": {
                 "sizing-mode": "fixed",
-                "value": "103.0"
+                "value": "101.0"
               },
               "height-constraints": {
                 "sizing-mode": "fixed",
-                "value": "165.0"
+                "value": "154.0"
               }
             },
             "image-content": "rectangle_17.png",
@@ -411,21 +349,21 @@
             "alignment": {
               "horizontal": {
                 "attachment": "start",
-                "offset": "269.0"
+                "offset": "265.0"
               },
               "vertical": {
                 "attachment": "start",
-                "offset": "181.0"
+                "offset": "169.0"
               }
             },
             "size-constraints": {
               "width-constraints": {
                 "sizing-mode": "fixed",
-                "value": "103.0"
+                "value": "101.0"
               },
               "height-constraints": {
                 "sizing-mode": "fixed",
-                "value": "165.0"
+                "value": "154.0"
               }
             },
             "image-content": "rectangle_18.png",
@@ -436,32 +374,28 @@
             "alignment": {
               "horizontal": {
                 "attachment": "start",
-                "offset": "33.0"
+                "offset": "32.0"
               },
               "vertical": {
                 "attachment": "start",
-                "offset": "758.0"
+                "offset": "708.0"
               }
             },
             "size-constraints": {
               "width-constraints": {
                 "sizing-mode": "fixed",
-                "value": "78.0"
+                "value": "77.0"
               },
               "height-constraints": {
                 "sizing-mode": "fixed",
-                "value": "72.0"
+                "value": "68.0"
               }
             },
             "image-content": "rectangle_12.png",
             "scale": "cover"
           },
           {
-<<<<<<< HEAD
             "id": "uncontect",
-=======
-            "id": "비대면 상담",
->>>>>>> origin/MainScreen
             "alignment": {
               "horizontal": {
                 "attachment": "start",
@@ -469,17 +403,17 @@
               },
               "vertical": {
                 "attachment": "start",
-                "offset": "333.0"
+                "offset": "311.0"
               }
             },
             "size-constraints": {
               "width-constraints": {
                 "sizing-mode": "fixed",
-                "value": "83.0"
+                "value": "81.0"
               },
               "height-constraints": {
                 "sizing-mode": "fixed",
-                "value": "37.0"
+                "value": "34.0"
               }
             },
             "font-weight": "700.0",
@@ -493,33 +427,29 @@
             "overflow": "visible",
             "max-lines": "-1",
             "text-align-vertical": "center",
-            "text-size": "16.0",
-            "line-height": "1.25"
+            "text-size": "15.0",
+            "line-height": "1.3333332824707032"
           },
           {
-<<<<<<< HEAD
             "id": "Expert",
-=======
-            "id": "전문가 상담",
->>>>>>> origin/MainScreen
             "alignment": {
               "horizontal": {
                 "attachment": "start",
-                "offset": "279.0"
+                "offset": "275.0"
               },
               "vertical": {
                 "attachment": "start",
-                "offset": "333.0"
+                "offset": "311.0"
               }
             },
             "size-constraints": {
               "width-constraints": {
                 "sizing-mode": "fixed",
-                "value": "83.0"
+                "value": "81.0"
               },
               "height-constraints": {
                 "sizing-mode": "fixed",
-                "value": "37.0"
+                "value": "34.0"
               }
             },
             "font-weight": "700.0",
@@ -533,23 +463,19 @@
             "overflow": "visible",
             "max-lines": "-1",
             "text-align-vertical": "center",
-            "text-size": "16.0",
-            "line-height": "1.25"
+            "text-size": "15.0",
+            "line-height": "1.3333332824707032"
           },
           {
-<<<<<<< HEAD
             "id": "Activity",
-=======
-            "id": "활동 상담",
->>>>>>> origin/MainScreen
             "alignment": {
               "horizontal": {
                 "attachment": "start",
-                "offset": "154.0"
+                "offset": "151.0"
               },
               "vertical": {
                 "attachment": "start",
-                "offset": "333.0"
+                "offset": "311.0"
               }
             },
             "size-constraints": {
@@ -559,7 +485,7 @@
               },
               "height-constraints": {
                 "sizing-mode": "fixed",
-                "value": "37.0"
+                "value": "34.0"
               }
             },
             "font-weight": "700.0",
@@ -577,19 +503,25 @@
             "line-height": "1.25"
           },
           {
-<<<<<<< HEAD
             "id": "Event",
-=======
-            "id": "공지사항 & 이벤트 광고 배너",
->>>>>>> origin/MainScreen
             "alignment": {
               "horizontal": {
                 "attachment": "start",
-                "offset": "99.0"
+                "offset": "82.0"
               },
               "vertical": {
                 "attachment": "start",
-                "offset": "531.0"
+                "offset": "494.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "220.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
               }
             },
             "font-weight": "700.0",
@@ -601,24 +533,21 @@
             },
             "text-content": "공지사항 & 이벤트 광고 배너",
             "overflow": "visible",
+            "max-lines": "-1",
             "text-align-vertical": "center",
-            "text-size": "16.0",
-            "line-height": "1.25"
+            "text-size": "15.0",
+            "line-height": "1.3333332824707032"
           },
           {
-<<<<<<< HEAD
             "id": "Location",
-=======
-            "id": "내 위치",
->>>>>>> origin/MainScreen
             "alignment": {
               "horizontal": {
                 "attachment": "start",
-                "offset": "152.0"
+                "offset": "149.0"
               },
               "vertical": {
                 "attachment": "start",
-                "offset": "19.0"
+                "offset": "17.0"
               }
             },
             "size-constraints": {
@@ -628,7 +557,7 @@
               },
               "height-constraints": {
                 "sizing-mode": "fixed",
-                "value": "36.0"
+                "value": "33.0"
               }
             },
             "font-weight": "700.0",
@@ -654,17 +583,17 @@
               },
               "vertical": {
                 "attachment": "start",
-                "offset": "18.0"
+                "offset": "16.0"
               }
             },
             "size-constraints": {
               "width-constraints": {
                 "sizing-mode": "fixed",
-                "value": "38.0"
+                "value": "37.0"
               },
               "height-constraints": {
                 "sizing-mode": "fixed",
-                "value": "37.0"
+                "value": "34.0"
               }
             },
             "image-content": "rectangle_10.png",
@@ -675,118 +604,70 @@
             "alignment": {
               "horizontal": {
                 "attachment": "start",
-                "offset": "162.0"
+                "offset": "160.0"
               },
               "vertical": {
                 "attachment": "start",
-                "offset": "766.0"
+                "offset": "716.0"
               }
             },
             "size-constraints": {
               "width-constraints": {
                 "sizing-mode": "fixed",
-                "value": "66.0"
+                "value": "64.0"
               },
               "height-constraints": {
                 "sizing-mode": "fixed",
-                "value": "55.0"
+                "value": "51.0"
               }
             },
             "image-content": "rectangle_34.png",
             "scale": "cover"
           },
           {
-            "id": "Ellipse 1",
-            "alignment": {
-              "horizontal": {
-                "attachment": "start",
-                "offset": "291.0"
-              },
-              "vertical": {
-                "attachment": "start",
-                "offset": "761.0"
-              }
-            },
-            "size-constraints": {
-              "width-constraints": {
-                "sizing-mode": "fixed",
-                "value": "65.0"
-              },
-              "height-constraints": {
-                "sizing-mode": "fixed",
-                "value": "65.0"
-              }
-            },
-            "vector-content": "ellipse_1.svg"
-          },
-          {
             "id": "Polygon 1",
             "alignment": {
               "horizontal": {
                 "attachment": "start",
-                "offset": "238.2724609375"
+                "offset": "235.2060546875"
               },
               "vertical": {
                 "attachment": "start",
-                "offset": "31.0"
+                "offset": "28.5"
               }
             },
             "size-constraints": {
               "width-constraints": {
                 "sizing-mode": "fixed",
-                "value": "19.0"
+                "value": "18.0"
               },
               "height-constraints": {
                 "sizing-mode": "fixed",
-                "value": "16.0"
+                "value": "14.0"
               }
             },
             "vector-content": "polygon_1.svg"
-          },
-          {
-            "id": "Ellipse 2",
-            "alignment": {
-              "horizontal": {
-                "attachment": "start",
-                "offset": "282.0"
-              },
-              "vertical": {
-                "attachment": "start",
-                "offset": "625.0"
-              }
-            },
-            "size-constraints": {
-              "width-constraints": {
-                "sizing-mode": "fixed",
-                "value": "100.0"
-              },
-              "height-constraints": {
-                "sizing-mode": "fixed",
-                "value": "95.0"
-              }
-            },
-            "vector-content": "ellipse_2.svg"
           },
           {
             "id": "Rectangle 58",
             "alignment": {
               "horizontal": {
                 "attachment": "start",
-                "offset": "21.0"
+                "offset": "20.0"
               },
               "vertical": {
                 "attachment": "start",
-                "offset": "70.0"
+                "offset": "64.0"
               }
             },
             "size-constraints": {
               "width-constraints": {
                 "sizing-mode": "fixed",
-                "value": "353.0"
+                "value": "348.0"
               },
               "height-constraints": {
                 "sizing-mode": "fixed",
-                "value": "57.0"
+                "value": "54.0"
               }
             },
             "vector-content": "rectangle_58.svg"
@@ -796,50 +677,46 @@
             "alignment": {
               "horizontal": {
                 "attachment": "start",
-                "offset": "36.0"
+                "offset": "35.0"
               },
               "vertical": {
                 "attachment": "start",
-                "offset": "82.0"
+                "offset": "76.0"
               }
             },
             "size-constraints": {
               "width-constraints": {
                 "sizing-mode": "fixed",
-                "value": "36.0"
+                "value": "35.0"
               },
               "height-constraints": {
                 "sizing-mode": "fixed",
-                "value": "36.0"
+                "value": "33.0"
               }
             },
             "image-content": "rectangle_60.png",
             "scale": "contain"
           },
           {
-<<<<<<< HEAD
             "id": "Search",
-=======
-            "id": "원하는 상담을 검색해보세요!",
->>>>>>> origin/MainScreen
             "alignment": {
               "horizontal": {
                 "attachment": "start",
-                "offset": "97.0"
+                "offset": "96.0"
               },
               "vertical": {
                 "attachment": "start",
-                "offset": "79.0"
+                "offset": "73.0"
               }
             },
             "size-constraints": {
               "width-constraints": {
                 "sizing-mode": "fixed",
-                "value": "235.0"
+                "value": "230.0"
               },
               "height-constraints": {
                 "sizing-mode": "fixed",
-                "value": "39.0"
+                "value": "36.0"
               }
             },
             "font-weight": "700.0",
@@ -862,21 +739,21 @@
             "alignment": {
               "horizontal": {
                 "attachment": "start",
-                "offset": "296.0"
+                "offset": "291.0"
               },
               "vertical": {
                 "attachment": "start",
-                "offset": "447.0"
+                "offset": "417.0"
               }
             },
             "size-constraints": {
               "width-constraints": {
                 "sizing-mode": "fixed",
-                "value": "69.0"
+                "value": "68.0"
               },
               "height-constraints": {
                 "sizing-mode": "fixed",
-                "value": "26.0"
+                "value": "25.0"
               }
             },
             "vector-content": "rectangle_61.svg"
@@ -886,11 +763,11 @@
             "alignment": {
               "horizontal": {
                 "attachment": "start",
-                "offset": "293.0"
+                "offset": "288.0"
               },
               "vertical": {
                 "attachment": "start",
-                "offset": "447.0"
+                "offset": "417.0"
               }
             },
             "size-constraints": {
@@ -900,7 +777,7 @@
               },
               "height-constraints": {
                 "sizing-mode": "fixed",
-                "value": "25.0"
+                "value": "24.0"
               }
             },
             "font-weight": "700.0",
@@ -916,6 +793,64 @@
             "text-align-vertical": "center",
             "text-size": "12.0",
             "line-height": "1.6666667175292968"
+          },
+          {
+            "id": "KakaoTalk_20231003_191511716_02 1",
+            "border-radius": "90.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "287.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "597.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "91.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "91.0"
+              }
+            },
+            "stroke-width": "3.0",
+            "stroke-color": {
+              "alpha": "1.0",
+              "hue": "111.30434782608695",
+              "saturation": "0.7666666666666667",
+              "value": "0.35294117647058826"
+            },
+            "image-content": "kakao_talk_20231003_191511716_02_1.jpeg",
+            "scale": "cover"
+          },
+          {
+            "id": "Untitled (2) 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "288.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "708.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "65.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "65.0"
+              }
+            },
+            "image-content": "untitled_2_1.png",
+            "scale": "cover"
           }
         ]
       }
@@ -923,14 +858,10 @@
   },
   "previews": [
     {
-<<<<<<< HEAD
       "design": "mainscreen",
-=======
-      "design": "메인 화면",
->>>>>>> origin/MainScreen
       "size": {
-        "width": 390.0,
-        "height": 844.0
+        "width": 384.0,
+        "height": 789.0
       }
     }
   ],
