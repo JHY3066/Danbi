@@ -26,7 +26,8 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import com.example.hellofigma.ui.theme.HelloFigmaTheme
-//import com.example.hellofigma.mainscreen.Mainscreen
+
+import com.example.hellofigma.mainscreen.Mainscreen
 
 
 class MainActivity : ComponentActivity() {
@@ -39,7 +40,8 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colors.background
                 ) {
-                  //Mainscreen()
+
+                    Mainscreen()
                 }
             }
         }
@@ -48,9 +50,10 @@ class MainActivity : ComponentActivity() {
 
 
 @Preview(showBackground = true)
-@Composable
+@Comtposable
 fun DefaultPreview() {
     HelloFigmaTheme {
-        //Mainscreen()
+        Mainscreen()
+
     }
 }
